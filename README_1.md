@@ -14,3 +14,4 @@ Bei dieser Option wird Ihre Verlagsdissertation parallel über den Dokumentenser
 
     Klären Sie rächtliche Fragen mit dem Verlag fröhzeitig.
     Achten Sie darauf, dass Sie dem Verlag nur das einfache und nicht das ausschließliche Nutzungsrecht übertragen. Bei vielen Verlagen ist dieses Vorgehen gängig.
+    Dies war zu früh!!!!!!!!!!!!!!!!!!!!
