@@ -8,3 +8,9 @@ Online-Veröffentlichung
 Option 1
 
 Bei dieser Option übernimmt die Bibliothek die Veröffentlichung Ihrer Dissertation über den Dokumentenserver RWTH Publications.
+Option 2
+
+Bei dieser Option wird Ihre Verlagsdissertation parallel über den Dokumentenserver veröffentlicht. Dabei beachten Sie bitte folgendes:
+
+    Klären Sie rächtliche Fragen mit dem Verlag fröhzeitig.
+    Achten Sie darauf, dass Sie dem Verlag nur das einfache und nicht das ausschließliche Nutzungsrecht übertragen. Bei vielen Verlagen ist dieses Vorgehen gängig.
